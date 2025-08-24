@@ -77,7 +77,7 @@ section {
     font-weight: 700;
     letter-spacing: 1px;
     margin-top: 18px;
-    margin-bottom: 110px;
+    margin-bottom: 90px;
 }
 
 .main-btn {
@@ -354,6 +354,9 @@ section {
         padding-left: 8.13px;
         font-size: 1em;
     }
+    .main h2 {
+    margin-top: 100px;
+    }
 
     .title{
         font-size: 1.8em;
@@ -382,11 +385,9 @@ section {
     body{
         font-size: 12px;
     }
-    
     .main-content h2{
         font-size: 0.8em;
     }
-    
     .main-content h3{
         font-size: 1.4em;
     }
@@ -395,6 +396,5 @@ section {
 @media (max-width:300px){
     body{
         font-size: 10px;
-        
     }
 }
